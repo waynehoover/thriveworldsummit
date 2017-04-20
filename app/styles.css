@@ -1,0 +1,13 @@
+body{background: url('https://source.unsplash.com/1yglEKdGSzU') no-repeat 50% 0; min-height:900px;background-size:cover;}
+
+.front .fa{font-size: 42px;padding-right: 18px;}
+
+.gfont{font-family: 'Work Sans', sans-serif;font-weight: 800;}
+
+.main-hero .title{font-size: 72px;color: #fff;text-shadow: 1px 1px 2px #607D8B;}
+/*969696*/
+.main-hero .subtitle{color:#fff; font-size:42px;text-shadow: 1px 1px 1px #607D8B;}
+
+.box.content{background: rgba(255,255,255,0.9);border:none;padding:20px 10px 60px 10px;}
+
+.footer{background: rgba(255,255,255,0.5);margin-top:500px;}
